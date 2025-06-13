@@ -221,31 +221,58 @@ System Integration: Integrate all components (LPC2148 microcontroller, RTC, LCD,
 👨‍💻 ARM7 LPC2148
 
 Title: Led Light blinking System Using LPC2148
+
 Title: Traffic Light System Using LPC2148
+
 Title: LED Binary Counter (1 to 255) Using LPC2148
+
 Title: Electronic Dice Using LPC2148
+
 Title: Switch-Controlled LED Using LPC2148
+
 Title: Dual Switch-Controlled LED Using LPC2148
+
 Title: 4 Switches Controlling 4 LEDs Using LPC2148
+
 Title: 7-Segment Display Digit Test Using LPC2148
+
 Title: Dual-Digit 7-Segment Multiplexed Display Test Using LPC2148
+
 Title: Electronic Dice Simulation on 7-Segment Display Using LPC2148
+
 Title: 60-Second Stopwatch Using LPC2148 and 7-Segment Display
+
 Title: 60-Second Timer with Increment, Decrement, and Reset Using LPC2148
+
 Title: LCD Functionality Test Using LPC2148
+
 Title: Displaying Capital Alphabets with ASCII Values on 16x2 LCD
+
 Title: Electronic Dice Simulation Using LCD Display
+
 Title: Scrolling and Oscillating Message Display on LCD Using LPC2148
+
 Title: Fastest Finger First Timer using LCD and LPC2148 Microcontroller
+
 Title: Fastest Finger First System Using LPC2148 with 7-Segment Display
+
 Title: 4x4 Matrix Keypad Interface and Display Test Using LPC2148 and LCD
+
 Title: SMS-Style Text Entry Using 4x4 Keypad and LCD with LPC2148
+
 Title: ADC Value Display on LCD using LPC2148
+
 Title: Temperature Monitoring using LM35 Sensor and LPC2148 with LCD Display
+
 Title: Distance Measurement using GP2D12 Sensor with LPC2148 and LCD Display
+
 Title: DHT11 Interfacing with LPC2148 for Temperature and Humidity Monitoring
+
 Title: 20x4 LCD Interface with LPC2148 for Multi-Format Data Display
+
+
 Learning Keys:
+
 
 GPIO Programming: Control digital inputs and outputs using microcontroller ports.
 Bit Manipulation: Use bitwise operations to set, clear, and toggle specific bits.
@@ -265,33 +292,61 @@ Real-Time Embedded Systems: Build integrated projects simulating real-world syst
 
 📁 View Project: 🔗Link
 
+
 👨‍💻 ARM7 LPC2129
 
 Title: Led Light blinking System Using LPC2129
+
 Title: Traffic Light System Using LPC2129
+
 Title: LED Binary Counter (1 to 255) Using LPC2129
+
 Title: Electronic Dice Using LPC2129
+
 Title: Switch-Controlled LED Using LPC2129
+
 Title: Dual Switch-Controlled LED Using LPC2129
+
 Title: 4 Switches Controlling 4 LEDs Using LPC2129
+
 Title: 7-Segment Display Digit Test Using LPC2129
+
 Title: Dual-Digit 7-Segment Multiplexed Display Test Using LPC2129
+
 Title: Electronic Dice Simulation on 7-Segment Display Using LPC2129
+
 Title: 60-Second Stopwatch Using LPC2129 and 7-Segment Display
+
 Title: 60-Second Timer with Increment, Decrement, and Reset Using LPC2129
+
 Title: LCD Functionality Test Using LPC2129
+
 Title: Displaying Capital Alphabets with ASCII Values on 16x2 LCD
+
 Title: Electronic Dice Simulation Using LCD Display
+
 Title: Scrolling and Oscillating Message Display on LCD Using LPC2129
+
 Title: Fastest Finger First Timer using LCD and LPC2129 Microcontroller
+
 Title: Fastest Finger First System Using LPC2129 with 7-Segment Display
+
 Title: 4x4 Matrix Keypad Interface and Display Test Using LPC2129 and LCD
+
 Title: SMS-Style Text Entry Using 4x4 Keypad and LCD with LPC2129
+
 Title: ADC Value Display on LCD using LPC2129
+
 Title: Temperature Monitoring using LM35 Sensor and LPC2129 with LCD Display
+
 Title: Distance Measurement using GP2D12 Sensor with LPC2129 and LCD Display
+
 Title: DHT11 Interfacing with LPC2129 for Temperature and Humidity Monitoring
+
 Title: 20x4 LCD Interface with LPC2129 for Multi-Format Data Display
+
+
+
 Learning Keys:
 
 GPIO Programming: Control digital inputs and outputs using microcontroller ports.
@@ -316,20 +371,36 @@ Real-Time Embedded Systems: Build integrated projects simulating real-world syst
 👨‍💻 Microcontroller 8051
 
 Title: Traffic Light System Using Microcontroller 8051
+
 Title: Counter Control System Using Microcontroller 8051
+
 Title: Seven Segment Display - Counting 0 to 9 Using Microcontroller 8051
+
 Title: LCD Interfacing with Microcontroller 8051
+
 Title: Basic Calculator Using Microcontroller 8051 and Keypad with LCD Display
+
 Title: DC Motor Control System Using Microcontroller 8051
+
 Title: Servo Motor Control Using Microcontroller 8051
+
 Title: Temperature Sensor (LM35) Interfacing with Microcontroller 8051
+
 Title: DHT11 Temperature and Humidity Sensor Interfacing with Microcontroller 8051
+
 Title: Fire Sensor Interfacing with Microcontroller 8051
+
 Title: LED Blinking with Microcontroller 8051
+
 Title: Sharp Distance Sensor Interfacing with Microcontroller 8051
+
 Title: Ultrasonic Sensor (HC-SR04) Interfacing with Microcontroller 8051
+
 Title: Vibration Sensor-Based LED Indicator Using SW-420 and Microcontroller 8051
+
 Title: Bi-Directional Counter Using IR Sensors and LCD
+
+
 Learning Keys:
 
 Gained hands-on experience with 8051 architecture, pin configuration, and register-level programming in Embedded C.
