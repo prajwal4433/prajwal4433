@@ -187,7 +187,7 @@ __Learning Keys:__
  - Owner and Group Resolution: Applied getpwuid() and getgrgid() to convert UID and GID to readable names.
  - Formatted Output: Practiced structuring output similar to ls -l using strftime() and formatted printing.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/my_ls_command/blob/main/README.md)__
+__📁 View Project: 🔗[Link](https://github.com/prajwal4433/my_ls_command)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX : Chatting Application Using FIFO (Named Pipes) and IPC in C.__
@@ -204,7 +204,7 @@ __Learning Keys:__
 - User Input/Output Handling: Using fgets() for safe input and fflush(stdout) for clean output display.
 - Concurrency Basics: Understanding concurrent execution of send/receive through parent-child process splitting.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Mini_Project_Linux/tree/main)__
+__📁 View Project: 🔗[Link](https://github.com/prajwal4433/MINI_PROJECT_LINUX)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module ARM :⏱️ The Time-Driven Access Control System.__
@@ -219,7 +219,7 @@ __Learning Keys:__
  - LCD and User Interface: Learn to display real-time information (like date, time, and access status) on a 16x2 or 20x4 LCD and provide a user-friendly interface for password entry and settings modification.
  - System Integration: Integrate all components (LPC2148 microcontroller, RTC, LCD, Keypad, and Buzzer/LED) to build a complete access control system that works under scheduled conditions.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Time_Driven_Access_Control_System)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -268,7 +268,7 @@ __Learning Keys:__
  - Modular Design: Split large code into reusable functions and separate files.
  - Real-Time Embedded Systems: Build integrated projects simulating real-world systems.
    
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/ARM7_LPC2148)__
+__📁 View Project: 🔗[Link](https://github.com/prajwal4433/ARM7_LPC2148)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __👨‍💻 ARM7 LPC2129__
@@ -315,7 +315,7 @@ __Learning Keys:__
  - Modular Design: Split large code into reusable functions and separate files.
  - Real-Time Embedded Systems: Build integrated projects simulating real-world systems.
    
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/ARM7_LPC2129)__
+__📁 View Project: 🔗[Link](https://github.com/prajwal4433/ARM_LPC2129)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __👨‍💻 Microcontroller AT89S52(8051)__
@@ -352,7 +352,7 @@ __Learning Keys:__
  - Control cursor, create custom symbols, and format strings on LCD.
  - Design real-time logic flows like counters, clocks, and simulators.
 
-__📁 View Project: 🔗[Link](https://github.com/gopaldhanokar22/AT89S52_Microcontroller/tree/main)__
+__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Microcontroller_8051)__
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## 🌐 Let’s Connect!
