@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my Portfolio 
 
-![GOPAL DHANOKAR](https://github.com/user-attachments/assets/da1213c5-7b46-4d79-8afe-65f3c4a3f7ff)
+![PRAJWAL SHINDE](https://raw.githubusercontent.com/prajwal4433/prajwal4433/refs/heads/main/Screenshot%202025-07-14%20114110.png)
 
 
 ## 📌About Me
